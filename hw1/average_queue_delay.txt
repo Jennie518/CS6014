@@ -1,0 +1,1 @@
+Average Queue Delay: 29.18617391304348 ms

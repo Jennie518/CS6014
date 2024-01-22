@@ -1,0 +1,27 @@
+
+
+Minimum delay for 500-byte packets: 2.4 ms
+Minimum delay for 1000-byte packets: 2.8 ms
+
+There minimum delays are likely to represent scenarios where the queuing delay is almost negligible.
+
+Therefore the difference in minimum delays primarily representing the additional transmission delay for extra	500 bytes.
+
+2.8 ms - 2.4 ms = 0.4ms
+
+propagation_delay = minimum_delay_500 - transmission_delay_500 = 2.4 ms - 0.4 ms = 2 ms
+ 
+transmission_delay_1000 = 0.8 ms
+
+queue_delays_1000_estimated = [delay - transmission_delay_1000 - propagation_delay_estimated for delay in delays_1000]
+
+# Calculate the average of these queuing delays
+average_queue_delay_1000_estimated = sum(queue_delays_1000_estimated) /len(queue_delays_1000_estimated) =  3.66 ms
+
+
+#Calculate 600 bytes
+
+transmission_delay_600 = 600/500 * transmission_delay_500 = 0.48 ms
+propagation_delay = 2 ms
+
+#Propagation delay is determined by the speed at which the signal travels through the physical medium and the length of the link.
