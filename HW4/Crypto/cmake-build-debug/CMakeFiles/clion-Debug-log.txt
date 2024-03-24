@@ -1,4 +1,4 @@
-/private/var/folders/77/z0v2_lbn04v438615b3l4yq00000gn/T/AppTranslocation/F20E9E2B-3DFC-47EF-BB8A-E3C214992A90/d/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/private/var/folders/77/z0v2_lbn04v438615b3l4yq00000gn/T/AppTranslocation/F20E9E2B-3DFC-47EF-BB8A-E3C214992A90/d/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/zhanyijun/Desktop/CS6014/Crypto -B /Users/zhanyijun/Desktop/CS6014/Crypto/cmake-build-debug
+/private/var/folders/77/z0v2_lbn04v438615b3l4yq00000gn/T/AppTranslocation/F20E9E2B-3DFC-47EF-BB8A-E3C214992A90/d/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/private/var/folders/77/z0v2_lbn04v438615b3l4yq00000gn/T/AppTranslocation/F20E9E2B-3DFC-47EF-BB8A-E3C214992A90/d/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/zhanyijun/Desktop/CS6014/HW4/Crypto -B /Users/zhanyijun/Desktop/CS6014/HW4/Crypto/cmake-build-debug
 -- The C compiler identification is AppleClang 15.0.0.15000100
 -- The CXX compiler identification is AppleClang 15.0.0.15000100
 -- Detecting C compiler ABI info
@@ -11,6 +11,6 @@
 -- Check for working CXX compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ - skipped
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
--- Configuring done (2.3s)
+-- Configuring done (1.1s)
 -- Generating done (0.0s)
--- Build files have been written to: /Users/zhanyijun/Desktop/CS6014/Crypto/cmake-build-debug
+-- Build files have been written to: /Users/zhanyijun/Desktop/CS6014/HW4/Crypto/cmake-build-debug

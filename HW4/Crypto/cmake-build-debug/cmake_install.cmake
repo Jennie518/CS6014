@@ -1,4 +1,4 @@
-# Install script for directory: /Users/zhanyijun/Desktop/CS6014/Crypto
+# Install script for directory: /Users/zhanyijun/Desktop/CS6014/HW4/Crypto
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/zhanyijun/Desktop/CS6014/Crypto/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/zhanyijun/Desktop/CS6014/HW4/Crypto/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

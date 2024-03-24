@@ -42,7 +42,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /private/var/folders/77/z0v2_lbn04v438615b3l4yq00000gn/T/AppTranslocation/F20E9E2B-3DFC-47EF-BB8A-E3C214992A90/d/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake --regenerate-during-build -S/Users/zhanyijun/Desktop/CS6014/Crypto -B/Users/zhanyijun/Desktop/CS6014/Crypto/cmake-build-debug
+  command = /private/var/folders/77/z0v2_lbn04v438615b3l4yq00000gn/T/AppTranslocation/F20E9E2B-3DFC-47EF-BB8A-E3C214992A90/d/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake --regenerate-during-build -S/Users/zhanyijun/Desktop/CS6014/HW4/Crypto -B/Users/zhanyijun/Desktop/CS6014/HW4/Crypto/cmake-build-debug
   description = Re-running CMake...
   generator = 1
 

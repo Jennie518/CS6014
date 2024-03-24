@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/zhanyijun/Desktop/CS6014/Crypto/cmake-build-debug",
-		"source" : "/Users/zhanyijun/Desktop/CS6014/Crypto"
+		"build" : "/Users/zhanyijun/Desktop/CS6014/HW4/Crypto/cmake-build-debug",
+		"source" : "/Users/zhanyijun/Desktop/CS6014/HW4/Crypto"
 	},
 	"version" : 
 	{
