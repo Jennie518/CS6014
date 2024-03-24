@@ -140,7 +140,7 @@ void printBlock(const Block message) {
 
 int main() {
     // Generate key
-    std::string password = "myneckmybacklickmypussyandmycrack";
+    std::string password = "osfhaeufgak";
     Key key = generateKey(password);
 
     // Create substitution tables for encryption and decryption
